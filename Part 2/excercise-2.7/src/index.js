@@ -4,15 +4,15 @@ import App from './App.js'
 const persons = [
   {
     id: 1,
-    name: 'Sai'
+    name: 'Priya'
   },
   {
     id: 2,
-    name: 'Rama'
+    name: 'Chandra'
   },
   {
     id: 3,
-    name: 'Krishna'
+    name: 'Lanka'
   }
 ]
 
