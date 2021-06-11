@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jayanth",
+  "author": "Priya Chandra",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
