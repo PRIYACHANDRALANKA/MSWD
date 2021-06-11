@@ -9,7 +9,7 @@
     "test": "cross-env NODE_ENV=test jest --verbose --runInBand",
     "start:test": "cross-env NODE_ENV=test nodemon index.js"
   },
-  "author": "jayanth",
+  "author": "Priya Chandra",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
