@@ -20,8 +20,8 @@ const personSchema = new mongoose.Schema({
 const Person = mongoose.model('Person', personSchema)
 const number =mongoose.model('Person',personSchema)
 const person = new Person({
-  name: `jayanth`,
-  number: 9290552880
+  name: `Priya Chandra`,
+  number: 9014048542
 })
 
 
